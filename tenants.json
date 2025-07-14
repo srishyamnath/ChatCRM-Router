@@ -1,0 +1,19 @@
+{
+  "tenants": [
+    {
+      "tenant_id": "lifecode_india",
+      "name": "Lifecode India",
+      "crm": "zoho",
+      "zoho": {
+        "client_id": "1000.CSHGEBS3UWDNBS8TSVI76M8NWXPFKC",
+        "client_secret": "3aa63f075e19d9a39a312dd18b15e393b15826ad92",
+        "refresh_token": "1000.eda0d5c35ac22d3987efeec11406790d.edbf78d384154bd031742e87cd3e4374"
+      },
+      "branding": {
+        "welcome_message": "Welcome to Lifecode!",
+        "logo_url": "https://cdn.example.com/lifecode-logo.png"
+      },
+      "telegram_token": "8016794857:AAEZjR8E-Zz9R454XaAUTE8xDaTIZgiKNTE"
+    }
+  ]
+}
